@@ -10,11 +10,7 @@
     "96": "icons/tab-96.png"
   },
 
-  "content_scripts": [
-    {
-      "matches": ["*"],
-      "js": ["js/maxTabs.js"]
-    }
-  ]
-
+  "background": {
+    "scripts": ["background.js"]
+  }
 }
