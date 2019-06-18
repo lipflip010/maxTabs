@@ -6,4 +6,4 @@ Sources:
 https://material.io/tools/icons/?icon=tab&style=baseline
 
 Inspired by: 
-https://xtab.app/
+Tab-management in IDEs by Jetbrains
