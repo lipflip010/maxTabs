@@ -4,3 +4,6 @@ firefox extension to limit amount of open tabs. Close LRU tab when maximum is re
 
 Sources:
 https://material.io/tools/icons/?icon=tab&style=baseline
+
+Inspired by: 
+https://xtab.app/
