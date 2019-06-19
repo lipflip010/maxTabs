@@ -7,8 +7,8 @@ Firefox extension to limit amount of open tabs. Close LRU tab when maximum is re
 * either load plugin temporarily in on about:debugging page in firefox or install web-ext and run `web-ext run` in root folder of this project
 
 
-## Sources:
-https://material.io/tools/icons/?icon=tab&style=baseline
+## Attributions:
+Tab-Icon: https://material.io/tools/icons/?icon=tab&style=baseline by Google is licensed under Apache 2.0: https://www.apache.org/licenses/LICENSE-2.0.txt
 
 ## Inspired by: 
 Tab-management in IDEs by Jetbrains
