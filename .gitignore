@@ -88,3 +88,5 @@ modules.xml
 
 ## npm ## 
 node_modules/**
+.idea/jsLibraryMappings.xml
+package-lock.json
