@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/lipflip010/maxTabs/issues"
   },
-  "homepage": "https://github.com/lipflip010/maxTabs#readme"
+  "homepage": "https://github.com/lipflip010/maxTabs#readme",
+  "devDependencies": {
+    "concurrently": "^4.1.0",
+    "typescript": "^3.5.2"
+  }
 }
