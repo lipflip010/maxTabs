@@ -11,6 +11,6 @@
   },
 
   "background": {
-    "scripts": ["background.js"]
+    "scripts": ["background-new.js"]
   }
 }
