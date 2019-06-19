@@ -90,3 +90,7 @@ modules.xml
 node_modules/**
 .idea/jsLibraryMappings.xml
 package-lock.json
+
+
+## web-ext build ##
+web-ext-artifacts/**
