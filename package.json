@@ -1,0 +1,19 @@
+{
+  "name": "maxtabs",
+  "version": "1.0.0",
+  "description": "Firefox-AddOn to limit Tabs",
+  "main": "background-new.js",
+  "scripts": {
+    "test": "we are live"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lipflip010/maxTabs.git"
+  },
+  "author": "Philipp Albers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lipflip010/maxTabs/issues"
+  },
+  "homepage": "https://github.com/lipflip010/maxTabs#readme"
+}
