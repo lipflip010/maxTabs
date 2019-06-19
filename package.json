@@ -2,7 +2,7 @@
   "name": "maxtabs",
   "version": "1.0.0",
   "description": "Firefox-AddOn to limit Tabs",
-  "main": "background-new.js",
+  "main": "background.js",
   "scripts": {
     "test": "we are live"
   },
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lipflip010/maxTabs#readme",
   "devDependencies": {
+    "@types/firefox-webext-browser": "^67.0.2",
     "concurrently": "^4.1.0",
     "typescript": "^3.5.2"
   }
