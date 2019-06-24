@@ -1,6 +1,6 @@
 import Tab = browser.tabs.Tab;
 
-const limit = 5;
+const limit = 8;
 
 
 const onCreated = (): void => {
