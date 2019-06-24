@@ -1,5 +1,5 @@
 "use strict";
-var limit = 5;
+var limit = 8;
 var onCreated = function () {
     browser.tabs.query({ currentWindow: true })
         .then(function (tabs) {
