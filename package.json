@@ -1,0 +1,25 @@
+{
+  "name": "maxtabs",
+  "version": "1.0.0",
+  "description": "Firefox-AddOn to limit Tabs",
+  "main": "background.js",
+  "scripts": {
+    "test": "we are live",
+    "build": "web-ext build -i tsconfig.json background.ts README.md LICENSE .gitignore package.json package-lock.json" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lipflip010/maxTabs.git"
+  },
+  "author": "Philipp Albers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lipflip010/maxTabs/issues"
+  },
+  "homepage": "https://github.com/lipflip010/maxTabs#readme",
+  "devDependencies": {
+    "@types/firefox-webext-browser": "^67.0.2",
+    "concurrently": "^4.1.0",
+    "typescript": "^3.5.2"
+  }
+}

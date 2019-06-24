@@ -86,3 +86,11 @@ modules.xml
 
 # End of https://www.gitignore.io/api/webstorm
 
+## npm ## 
+node_modules/**
+.idea/jsLibraryMappings.xml
+package-lock.json
+
+
+## web-ext build ##
+web-ext-artifacts/**
